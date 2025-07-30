@@ -8,24 +8,9 @@ Und vergessen Sie nicht Ihre Lösung mit `git push` auch an unseren Server zu se
 
 ## Persönliche Daten
 
-Bitte füllen Sie und Ihr:e Gruppenpartner:in die folgenden Informationen sorgfältig aus:
-
-- Gruppe: 29
-
-Person A
-
-
-- Vorname:Bao Ngoc
-- Nachname: Pham
-- Matrikelnummer: 5258848
-- yNummer: y0107768
-- Studiengang: Informatik
-- Geplanter Abschluss: Bachelor
-
-Person B
 - Vorname: Ana Paula
 - Nachname: Martínez Salero
 - Matrikelnummer: 5305247
 - yNummer: y0111392
-- Studiengang: Informatik
+- Studiengang: Wirtschaftsinformatik
 - Geplanter Abschluss: Bachelor
